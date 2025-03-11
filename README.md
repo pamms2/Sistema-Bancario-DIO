@@ -2,7 +2,7 @@
 
 ## Objetivo 
 
-Criarum sistema bancário em Python, com operações básicas de depósito, saque e extrato.
+Criar um sistema bancário em Python, com operações básicas de depósito, saque e extrato.
 
 ### Depósito
 ![Código de depósito](https://imgur.com/5XyuT4u.png) <br>
