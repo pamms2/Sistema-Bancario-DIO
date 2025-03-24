@@ -10,7 +10,7 @@ O depósito é chamado pelo usuário no menu de seleção por meio do caractere 
 Nele é conferido se o valor inserido pelo usuario é válido (maior que zero), e caso seja, o saldo da conta é atualizado em conjunto com o extrato.
 
 ### Saque 
-![Código de saque](https://imgur.com/4Mb0jDD.png) <br>
+![Código de saque](https://imgur.com/WY93klQ.png) <br>
 O Saque é chamado pelo usuário no menu de seleção por meio do caractere 'S'.<br>
 Nele é conferido se o valor inserido pelo usuário é válido (menor do que o saldo disponível em conta ou maior que zero), e caso seja, o saldo da conta é atualizado em conjunto com o extrato.
 
