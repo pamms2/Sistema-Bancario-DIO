@@ -14,7 +14,7 @@ def saque(*, valor_saque, valor_antigo):
         print(f"Valor de saque maior do que o valor atual!\n")
         return valor_antigo, None
     elif valor_saque < 0:
-        print(f"O valor inzerido para saque é inválido.\n")
+        print(f"O valor inserido para saque é inválido.\n")
         return valor_antigo, None
     else:
         valor_atual = valor_antigo - valor_saque
